@@ -1,77 +1,42 @@
 ---
-title: "Software Development Strategy - Monorepo vs. Polyrepo"
+title: "Polyrepo"
 tags:
+  - Computer Engineering
   - Software Development Life Cycle
-  - Software Development Strategy
   - Monorepo
   - Polyrepo
+  - Version Control System
 ---
 
-## Introduction
+# Polyrepo
 
-### What is monorepo?
-
-Monorepo (syllabic abbreviation of monolithic repository) is a nickname that means "using one repository for the source code management version control system (VCS)".
-
-Advantages of monorepo:
-* Ease of code reuse
-* Simplified dependency management
-* Atomic commits
-* Large-scale code refactoring
-* Coherence codebase
-* Cheap workflows
-
-Limitations of monorepo:
-* Loss of version information per project
-* Lack of per-project security (Not an issue with code owners by github)
-* More storage needed (Not an issue with SVN)
-* Long build time
-
-Proponents of monorepo:
-* If components need to release together, then use a monorepo.
-* If components need to share common code, then use a monorepo.
-* In less-mature, high-churn codebase, use a monorepo.
-
-#### Monorepo Scaling Problem
-
-Monorepo scaling becomes a problem when a typical developer can't work well with the code by using typical tools such as vanilla git.
-
-Monorepo scaling seems to become an issue, in pratice, at approximately these kinds of metrics:
-* 10 - 100 developers writing code full time.
-* 10 - 100 projects in progress at the same time.
-* 10 - 100 packaging processes during the same time period.
-* 1K - 10K lines of code
-* 1K - 10K versioned dependencies
-
-Monorepo scaling can be improved by:
-* Some type of virtual file system (VFS) that allows a portion of the code to be present locally.
-* Sophisticated source code indexing/searching/discovery capabilities as a service.
-* Git's commands to clone repo with a very long history:
-  - git shallow clone
-  - git filter-branch
-  - git clone only one branch
-
-### What is polyrepo?
+## What is polyrepo?
 
 Polyrepo (syllabic abbreviation of poly repository) is a nickname that means "using multiple repositories for the source code management version control system (VCS)".
 
+Proponents of polyrepo:
+- At scale, a monorepo must solve every problem that a polyrepo must solve, with the downside of encouraging tight coupling, and the additional herculean effort of tackling VCS scalability.
+- Coupling between unrelated projects.
+- Visible organization.
+
+## Why/When to use a polyrepo?
+
+### Pros
+
 Advantages of polyrepo:
-* Strict isolation of components
-* Quickly build independent components
-* Short build time
+- Strict isolation of components.
+- Quickly build independent components.
+- Short build time.
+
+### Cons
 
 Limitations of polyrepo:
-* Large-scale code refactoring
-* Dependency hell (Diamond dependency problem)
-* Multiple pull request for a feature
-* Onboarding junior developer
+- Large-scale code refactoring.
+- Dependency hell (Diamond Dependency Problem).
+- Multiple pull request for a feature.
+- Onboarding junior developer.
 
-Proponents of polyrepo:
-* At scale, a monorepo must solve every problem that a polyrepo must solve, with the downside of encouraging tight coupling, and the additional herculean effort of tackling VCS scalability
-* Coupling between unrelated projects
-* Visible organization
-
-## Comparisons
+## Monorepo Vs. Polyrepo
 
 ### Key similarities
 
@@ -223,7 +188,7 @@ A single repository used for environment configuration. With a directory structu
 
 This allows for a single command whole environment creation and upgrades via terragrunt apply-all for example.
 
-**Resources**:
+**References**:
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo)
 - [Monorepo vs. polyrepo](https://dzone.com/articles/microservices-difference-between-mono-repo-and-mul?fromrel=true)

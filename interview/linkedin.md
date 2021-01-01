@@ -1,10 +1,11 @@
 ---
-title: "Interview - Linkedin"
+title: "Interview – Linkedin"
 tags:
   - Interview
   - Linkedin
-  - curriculum vitae
 ---
+
+Interview – Linkedin
 
 ## General
 
@@ -75,7 +76,3 @@ tags:
 - [ ] I have not listed technologies, processes, concepts that I am not fluent in, lied, or otherwise twisted the truth on my Linkedin profile.
 
 - [ ] I have shown my Linkedin profile to three people for feedback.
-
-**Resources**:
-
-- [Udacity](https://www.udacity.com/)

@@ -1,10 +1,12 @@
 ---
-title: "Interview - Resume"
+title: "Interview – Resume"
 tags:
   - Interview
   - Resume
   - curriculum vitae
 ---
+
+# Interview – Resume
 
 ## General
 
@@ -20,11 +22,11 @@ tags:
 
 - [ ] My resume does not include: age, gender, marital status, photo, an objective statement or an offer to provide references.
 
-- [ ] My resume avoids language or acronyms that are unknown to employers; if I must use this language I have e plained it.
+- [ ] My resume avoids language or acronyms that are unknown to employers; if I must use this language I have explained it.
 
 - [ ] I have not put languages or wording that is negative about myself, co-workers or employers in my resume.
 
-- [ ] The ordering if my sub sections matches a standard order such as Name, Contact Information, Links, Skills, Projects, Relevant E perience, Education.
+- [ ] The ordering if my sub sections matches a standard order such as Name, Contact Information, Links, Skills, Projects, Relevant Experience, Education.
 
 - [ ] Within my subsections, the contents are listed in reverse-chronological order.
 
@@ -42,7 +44,7 @@ tags:
 
 - [ ] If applicable, my college and major are listed, as well as any honors.
 
-## Projects & E periences
+## Projects & Experiences
 
 - [ ] I've considered and added the most relevant projects, including work projects, classroom projects, team projects and projects I've done in my freetime or for fun.
 
@@ -50,29 +52,29 @@ tags:
 
 - [ ] I've highlighted open source contributions I've made.
 
-- [ ] Each of my e periences contains the company or organization I worked for, the title or capacity in which I worked for them, my start and stop date, and the location.
+- [ ] Each of my experiences contains the company or organization I worked for, the title or capacity in which I worked for them, my start and stop date, and the location.
 
-- [ ] I've included part-time e periences and internships.
+- [ ] I've included part-time experiences and internships.
 
 - [ ] I haven't e plicitly mentioned if work is part-time or unpaid.
 
 ## Bullet points
 
-- [ ] I've included no more than 3-4 bullet points for an e perience and no sub bullet points.
+- [ ] I've included no more than 3-4 bullet points for an experience and no sub bullet points.
 
 - [ ] All bullet points start with varied action verbs (such as: Achieved, Improved, Trained/Mentored, Managed, Created, Influenced, Increased/Decreased, Negotiated, Launched).
 
-- [ ] My bullet points are in correct tense: past for previous e periences, current for an on-going e perience.
+- [ ] My bullet points are in correct tense: past for previous experiences, current for an on-going experience.
 
 - [ ] Each bullet point is about how I specifically benefited my company or cause.
 
 - [ ] For each bullet point I've provided as much concrete, numerical evidence as possible, such as projects completed.
 
-- [ ] My bullet points are no longer than one sentence and the sentence does not e tend over a line and a half.
+- [ ] My bullet points are no longer than one sentence and the sentence does not extend over a line and a half.
 
 ## Targeted
 
-- [ ] I have read the list of keywords to my field, identified which ones I e emplify and incorporated my reasoning and summarizing evidence of my legitimate interest and ability to enter my new field.
+- [ ] I have read the list of keywords to my field, identified which ones I exemplify and incorporated my reasoning and summarizing evidence of my legitimate interest and ability to enter my new field.
 
 - [ ] I have researched the company by at least reading the job summary and the company's about and jobs page.
 
@@ -80,25 +82,25 @@ tags:
 
 - [ ] I have made sure that I have proven in my resume that I have these skills and traits.
 
-- [ ] I have picked e periences that prove I can be successful at the job's responsibilities.
+- [ ] I have picked experiences that prove I can be successful at the job's responsibilities.
 
 - [ ] Dependending on the type of company I'm applting for and their culture, I've included a short section listing out additional interests and hobbies that individualize me.
 
 ## Visual Style
 
-- [ ] My te t is all aligned together along a left or right a is.
+- [ ] My text is all aligned together along a left or right a is.
 
-- [ ] For work e perience, the company name and my title are visually highlighted.
+- [ ] For work experience, the company name and my title are visually highlighted.
 
 - [ ] For projects, the project name and my role are visually highlighted.
 
 - [ ] My content is optimized to best use horizontal space, lists where each item is short (such as one word) are condensed to be a single line.
 
-- [ ] My section heading are visually different than the rest of the te t.
+- [ ] My section heading are visually different than the rest of the text.
 
-- [ ] My name is at the top of the page and larger than the rest of the te t.
+- [ ] My name is at the top of the page and larger than the rest of the text.
 
-- [ ] The formatting of my sections is consistent; bullet points, section heading, work history information is consistent across size, te t, color and style.
+- [ ] The formatting of my sections is consistent; bullet points, section heading, work history information is consistent across size, text, color and style.
 
 - [ ] I've given the styling of my name and basic information a personal flair without compromising the professional look of my resume.
 
@@ -109,7 +111,3 @@ tags:
 - [ ] I have not listed technologies, processes, concepts that I am not fluent in, lied or otherwise twisted the truth to my resume.
 
 - [ ] I have shown my resume to three other people for feedback.
-
-**Resources**:
-
-- [Udacity](https://www.udacity.com/)

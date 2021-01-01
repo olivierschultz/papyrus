@@ -3,7 +3,10 @@ title: "Interview - Preparation"
 tags:
   - Interview
   - Preparation
+  - Questions
 ---
+
+# Interview – Preparation
 
 ## STAR framework
 
@@ -18,7 +21,7 @@ tags:
 
 - Why do you want the job?
 - Why do you want to work here in _location_?
-- What can you bring the job / the company?
+- What can you bring to the job / the company?
 - How do you deal with unexpected tasks and situations at work?
 - How do you prioritize between timeline, quality, and work life balance?
 - What does the development process in your current job look like?
@@ -36,7 +39,7 @@ tags:
 - Tell something about a difficult software problem and how you solved it?
 - How much experience do you have with our tech stack?
 
-**Resources**:
+**References**:
 
 - [Engineering and Data role definitions](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 - [General guideline for behavorial interview](https://leetcode.com/explore/interview/card/leapai/272/general-guideline-for-behavioral-interview/)

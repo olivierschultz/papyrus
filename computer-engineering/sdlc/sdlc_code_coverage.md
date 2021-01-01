@@ -1,11 +1,14 @@
 ---
 title: "Code Coverage"
 tags:
+  - Computer Engineering
   - Software Development Life Cycle
-  - code coverage
+  - Code Coverage
 ---
 
-# What is Code Coverage?
+# Code Coverage
+
+## What is Code Coverage?
 
 Code Coverage is a measure that describes the degree to which code has been tested.
 

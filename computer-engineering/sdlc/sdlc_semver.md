@@ -1,16 +1,18 @@
 ---
-title: "Software Development - Sem Ver"
+title: "Semantic Versioning"
 tags:
+  - Computer Engineering
   - Software Development Life Cycle
-  - semver
-  - versioning
+  - Semantic Versioning
 ---
+
+# Semantic Versioning
 
 Semantic Versioning aims to mitigated dependency hell.
 
 Given a version number `MAJOR.MINOR.PATCH`, increment the:
 
-1. `MAJOR` version when you make incompatible API changes
+1. `MAJOR` version when you make incompatible API changes.
 2. `MINOR` version when you add functionality in a backwards compatible manner.
 3. `PATCH` version when you make backwards bug fixes.
 
@@ -36,5 +38,5 @@ And many others...
 `^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-((?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\.(?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\+([0-9a-zA-Z-]+(?:\.[0-9a-zA-Z-]+)*))?$
 `
 
-**Resources**:
+**References**:
 - [SemVer](https://semver.org/)

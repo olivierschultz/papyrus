@@ -20,7 +20,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 ## Semantic Versioning Compatibility
 
-- `Patch` version Z (x.y.Z | x > 0) **MUST** be incremented if only backwards compatible bug fixes are introduced. A bug fix is defined as an internal change tat fixes incorrect behavior
+- `Patch` version Z (x.y.Z | x > 0) **MUST** be incremented if only backwards compatible bug fixes are introduced. A bug fix is defined as an internal change that fixes incorrect behaviors.
 
 - `Minor` version Y (x.Y.z | x > 0) **MUST** be incremented if new, backwards compatible functionality is introduced to the public API. It **MUST** be incremented if any public API functionality is marked as depcrecated. It **MAY** be incremented if substantial new functionality or improvements are introduced within the private code. It **MAY** include patch level changes.
 

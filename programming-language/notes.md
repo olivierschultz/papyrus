@@ -43,3 +43,26 @@ Option[A] is a container for an optional value of type A. If the value of type A
 
 Resources:
 - https://danielwestheide.com/blog/the-neophytes-guide-to-scala-part-5-the-option-type/
+
+# Scala
+
+Scala combines OOP and FP.
+
+Features:
+- static types system
+- JVM and JS runtimes
+- Seamless JAVA interop (scala classes are JVM classes)
+- Type inference
+- Asynchronicity (with futures), Concurrency and distribution (with Actors)
+- Traits, multiple traits can be mixed into a class to combine their interface and behavior
+- Pattern Matching
+- High-order functions, functions are first-class objects (or first-class citizen), they are values
+
+Great for:
+- Safe and high performant concurrent programming
+- Actor systems on the JVM
+- in-language custom DSLs
+
+Resources:
+- https://www.scala-lang.org/
+
